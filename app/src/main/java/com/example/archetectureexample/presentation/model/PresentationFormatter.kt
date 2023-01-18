@@ -1,0 +1,3 @@
+package com.example.archetectureexample.presentation.model
+
+class PresentationFormatter

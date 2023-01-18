@@ -1,0 +1,3 @@
+package com.example.archetectureexample.domain.repository
+
+interface RestRepository
